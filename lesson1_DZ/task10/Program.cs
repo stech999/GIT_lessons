@@ -39,3 +39,5 @@ void PrintDigit(int number)
 // int num_res = number / 10;
 // int result = num_res % 10;
 // Console.WriteLine($"Вторая цифра вашего числа это {result}!");
+
+// 1 добавим первый коммит 
