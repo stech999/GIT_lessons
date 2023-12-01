@@ -46,4 +46,4 @@ void PrintDigit(int number)
 
 // 3 Добавим третий коммит
 
-// тестируем git diff
+// тестируем git 
