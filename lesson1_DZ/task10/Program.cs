@@ -41,3 +41,5 @@ void PrintDigit(int number)
 // Console.WriteLine($"Вторая цифра вашего числа это {result}!");
 
 // 1 добавим первый коммит 
+
+//2 Добавим второй коммит
